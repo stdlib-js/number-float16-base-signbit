@@ -43,7 +43,8 @@
     "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main",
     "@stdlib/number-float16-ctor": "github:stdlib-js/number-float16-ctor#main",
     "@stdlib/number-float64-base-to-float16": "github:stdlib-js/number-float64-base-to-float16#main",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-map": "github:stdlib-js/array-base-map#main",
