@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-signbit@deno/mod.js';
+import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-signbit@v0.1.0-deno/mod.js';
 ```
 
 #### signbit( x )
@@ -80,7 +80,7 @@ import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import map from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-signbit@deno/mod.js';
+import signbit from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-signbit@v0.1.0-deno/mod.js';
 
 // Create an array of random half-precision floating-point numbers:
 var x = map( uniform( 100, -50.0, 50.0 ), toFloat16 );
