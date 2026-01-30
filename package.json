@@ -40,7 +40,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-float16-base-to-word": "github:stdlib-js/number-float16-base-to-word#main",
+    "@stdlib/number-float16-base-to-word": "^0.1.0",
     "@stdlib/number-float16-ctor": "^0.1.0",
     "@stdlib/number-float64-base-to-float16": "^0.1.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
@@ -49,10 +49,10 @@
     "@stdlib/array-base-map": "github:stdlib-js/array-base-map#main",
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/boolean-ctor": "^0.2.2",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-round": "^0.3.0",
-    "@stdlib/number-float32-base-to-float16": "github:stdlib-js/number-float32-base-to-float16#main",
+    "@stdlib/number-float32-base-to-float16": "^0.1.0",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/string-format": "^0.2.2",
