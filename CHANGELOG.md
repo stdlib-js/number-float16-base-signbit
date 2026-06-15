@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-15)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c8950bc`](https://github.com/stdlib-js/stdlib/commit/c8950bc15eb7a2c62559ae6b909a41f96f59d58d) - **docs:** add missing tag and fix description [(#12821)](https://github.com/stdlib-js/stdlib/pull/12821) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
